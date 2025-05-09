@@ -1,6 +1,6 @@
 [general]
-name=Past Geometry
-description=Past geometry in current vector layer.
+name=Pasar geometría
+description=Pasar geometría en la capa actual.
 author=Quentin Savoye
 icon=icon.svg
 version=1.1
